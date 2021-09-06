@@ -46,6 +46,10 @@ Obtaining sshuttle
 
       dnf install sshuttle
       
+- openSUSE::
+
+      zypper in sshuttle
+
  - Gentoo::
  
       emerge -av net-proxy/sshuttle
